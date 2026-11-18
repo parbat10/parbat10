@@ -5,8 +5,7 @@
 
 I'm a BCA student passionate about designing and building useful digital products through clean UI/UX design and modern web technologies.
 
-Currently exploring frontend and backend development while working on real-world software projects.
-
+Currently exploring frontend and backend development while working on real-world software projects as a **UI/UX Designer at Pratham IT System.
 
 ---
 
