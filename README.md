@@ -14,7 +14,7 @@ Currently exploring frontend and backend development while working on real-world
 | Area | Technologies |
 |---|---|
 | Languages | JavaScript, C, C++ |
-| Frontend | HTML, CSS, JavaScript, [React.js](https://img.shields.io/badge/React-61DAFB) |
+| Frontend | HTML, CSS, JavaScript, React.js |
 | Backend | Node.js, Express.js |
 | Database | MongoDB |
 | UI/UX Design | Figma, Notion |
