@@ -1,16 +1,54 @@
-## Hi there 👋
 
-<!--
-**parbat10/parbat10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Parbat 👋
 
-Here are some ideas to get you started:
+### BCA Student | UI/UX Designer | Aspiring Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a BCA student passionate about designing and building useful digital products through clean UI/UX design and modern web technologies.
+
+Currently exploring frontend and backend development while working on real-world software projects.
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
+
+---
+
+## 🚀 Tech Stack
+
+| Area | Technologies |
+|---|---|
+| Languages | JavaScript, C, C++ |
+| Frontend | HTML, CSS, JavaScript, React.js |
+| Backend | Node.js, Express.js |
+| Database | MongoDB |
+| UI/UX Design | Figma, Notion |
+| Design Inspiration | Dribbble, Behance, Pinterest |
+| Styling | Tailwind CSS |
+| Tools | Git, GitHub, VS Code |
+
+---
+
+## 💻 Featured Projects
+
+### Loan Management System
+- Working on UI/UX design for a cooperative Loan Management System.
+- Designing dashboards, workflows, tables and reusable components.
+
+### Student Complaint Portal
+- React frontend project.
+- Complaint submission and tracking system.
+
+
+## 📚 Currently Learning
+
+- React.js
+- Node.js & Express.js
+- MongoDB
+- Full-Stack Development
+- UI/UX Documentation
+- Git and GitHub
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/parbat-limbu-94bb09443/
+- Email: parbatlimbu139@gmail.com
