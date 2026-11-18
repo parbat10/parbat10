@@ -7,7 +7,6 @@ I'm a BCA student passionate about designing and building useful digital product
 
 Currently exploring frontend and backend development while working on real-world software projects.
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
 
 ---
 
@@ -21,7 +20,6 @@ Currently exploring frontend and backend development while working on real-world
 | Database | MongoDB |
 | UI/UX Design | Figma, Notion |
 | Design Inspiration | Dribbble, Behance, Pinterest |
-| Styling | Tailwind CSS |
 | Tools | Git, GitHub, VS Code |
 
 ---
