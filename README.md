@@ -40,7 +40,7 @@ Currently exploring frontend and backend development while working on real-world
 - Node.js & Express.js
 - MongoDB
 - Full-Stack Development
-- UI/UX Documentation
+- UI/UX Designing
 - Git and GitHub
 
 ---
